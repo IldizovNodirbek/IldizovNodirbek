@@ -29,12 +29,12 @@ I am familiar with the following AI tools:
 ![Gemini](https://img.shields.io/badge/Gemini-6F4E37?style=flat-square&logo=google&logoColor=white)
 ![Copilot](https://img.shields.io/badge/Copilot-000000?style=flat-square&logo=github-copilot&logoColor=white)
 
-## 📊 GitHub Statistikasi
+## 📊 GitHub Statistics
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IldizovNodirbek&show_icons=true&theme=dracula)
 
 ---
 
-## 📫 Bog‘lanish
+## 📫 Connection
 - [Email](mailto:n.ildizov@gmail.com)
 - [simple Web-site about me](https://about-me-eta-five.vercel.app/)
 - [Vercel](https://vercel.com/ildizovnodirbeks-projects)
