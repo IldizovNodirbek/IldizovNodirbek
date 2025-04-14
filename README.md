@@ -11,12 +11,12 @@ Frontend dasturchi sifatida veb-saytlarni chiroyli va foydalanuvchilar uchun qul
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white)
 
-## 📫 Bog‘lanish
-- [LinkedIn](https://linkedin.com/in/sizning-profilingiz)
-- [Email](mailto:sizning-emailingiz@example.com)
+
+## 📊 GitHub Statistikasi
+![GitHub Stats](https://github-readme-stats.vercel.app/api?Nodirbek=Ildizov-Nodirbek&show_icons=true&theme=dracula)
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200"/>
-</p>
+## 📫 Bog‘lanish
+- [LinkedIn](https://linkedin.com/in/sizning-profilingiz)
+- [Email](mailto:sizning-emailingiz@example.com)
