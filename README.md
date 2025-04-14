@@ -13,7 +13,7 @@ Frontend dasturchi sifatida veb-saytlarni chiroyli va foydalanuvchilar uchun qul
 
 
 ## 📊 GitHub Statistikasi
-![GitHub Stats](https://github-readme-stats.vercel.app/api?Nodirbek=Ildizov-Nodirbek&show_icons=true&theme=dracula)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?IldizovNodirbek=IldizovNodirbek&show_icons=true&theme=dracula)
 
 ---
 
