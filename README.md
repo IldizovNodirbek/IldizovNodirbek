@@ -1,6 +1,6 @@
 # Hi, I'm Nodirbek! 👋
 
-I study as a frontend developer at Astrum IT Academy and strive to create modern web applications. Along with developing user-friendly and beautiful interfaces, I am learning new technologies, expanding my experience and working on interesting projects. I have hosted my personal website at [Vercel](https://vercel.com), which you can view here: [My Website](https://sizning-saytingiz.vercel.app).
+I study as a frontend developer at Astrum IT Academy and strive to create modern web applications. Along with developing user-friendly and beautiful interfaces, I am learning new technologies, expanding my experience and working on interesting projects.
 
 ## 🛠️Technologies & Skills
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -35,7 +35,7 @@ I am familiar with the following AI tools:
 ---
 
 ## 📫 Bog‘lanish
-- [LinkedIn](https://www.linkedin.com/in/nodirbek-ildizov-1a5527326/)
 - [Email](mailto:n.ildizov@gmail.com)
-- [Vercel](https://vercel.com/ildizovnodirbeks-projects)
 - [simple Web-site about me](https://about-me-eta-five.vercel.app/)
+- [Vercel](https://vercel.com/ildizovnodirbeks-projects)
+- [LinkedIn](https://www.linkedin.com/in/nodirbek-ildizov-1a5527326/)
