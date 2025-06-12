@@ -10,8 +10,6 @@ I study as a frontend developer at Astrum IT Academy and strive to create modern
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
-## 📚 I Currently learning
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 ![Zustand](https://img.shields.io/badge/Zustand-000000?style=flat-square&logo=react&logoColor=white)
@@ -29,13 +27,7 @@ I am familiar with the following AI tools:
 ![Gemini](https://img.shields.io/badge/Gemini-6F4E37?style=flat-square&logo=google&logoColor=white)
 ![Copilot](https://img.shields.io/badge/Copilot-000000?style=flat-square&logo=github-copilot&logoColor=white)
 
-## 📊 GitHub Statistics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IldizovNodirbek&show_icons=true&theme=dracula)
-
----
-
 ## 📫 Connection
 - [Email](mailto:n.ildizov@gmail.com)
-- [simple Web-site about me](https://about-me-eta-five.vercel.app/)
 - [Vercel](https://vercel.com/ildizovnodirbeks-projects)
 - [LinkedIn](https://www.linkedin.com/in/nodirbek-ildizov-1a5527326/)
