@@ -1,6 +1,6 @@
 # Hi, I'm Nodirbek! 👋
 
-As a frontend developer and Astrum IT Academy graduate, I specialize in creating responsive, modern web applications. I’ve worked on several projects that showcase my skills in building interactive user interfaces, and I continue to enhance my expertise by learning advanced tools and best practices.
+I am a frontend developer passionate about crafting modern, responsive, and user-centered web applications. With a strong focus on clean design and intuitive user experiences, I continually explore new technologies and improve my skills by working on real-world projects and creative solutions.
 
 ## 🛠️ Technologies & Skills
 
