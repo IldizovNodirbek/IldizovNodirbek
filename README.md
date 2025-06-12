@@ -1,6 +1,6 @@
 # Hi, I'm Nodirbek! 👋
 
-I study as a frontend developer at Astrum IT Academy and strive to create modern web applications. Along with developing user-friendly and beautiful interfaces, I am learning new technologies, expanding my experience and working on interesting projects.
+As a frontend developer and Astrum IT Academy graduate, I specialize in creating responsive, modern web applications. I’ve worked on several projects that showcase my skills in building interactive user interfaces, and I continue to enhance my expertise by learning advanced tools and best practices.
 
 ## 🛠️ Technologies & Skills
 
@@ -12,7 +12,6 @@ I study as a frontend developer at Astrum IT Academy and strive to create modern
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![Zustand](https://img.shields.io/badge/Zustand-000000?style=flat-square&logo=react&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=flat-square&logo=react&logoColor=white)
 
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white)
@@ -30,6 +29,7 @@ I study as a frontend developer at Astrum IT Academy and strive to create modern
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=flat-square&logo=react&logoColor=white)
 
 ## 🤖 AI skills
 I effectively use artificial intelligence tools in programming, which helps me speed up projects and improve quality.
